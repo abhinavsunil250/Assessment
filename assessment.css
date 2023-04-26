@@ -1,0 +1,122 @@
+  body{
+    border: 0;
+    margin: 0%;
+    overflow: hidden;
+  }
+  .page{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .fname{
+    font-family: poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 30px;
+  }
+  
+  .createButton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    background-color: #007074;
+    color:  #FFFFFF;
+    border-color: #007074;
+    width: 300px;
+    height: 60px;
+    margin-top: 20px;
+  }
+
+  .mainHeading{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    padding-top: 40px;
+    padding-left: 40px;
+  }
+
+  .imgcontainer {
+    width: 500px;
+  }
+
+  .container{
+    padding-right: 350px;
+  } 
+
+  .login{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px; 
+    color: #007074;
+    padding-left: 5px;
+  }
+
+  .inputs{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .box{
+    width: 600px;
+    height: 65px;
+    background-color: #EFF0F2;
+    color: #838383;
+    border: 0;
+    border-radius: 8px;
+    padding-left: 20px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+  }
+
+  .lower{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    font-family: Poppins;
+  }
+
+  .buttonArea{
+    margin-left: 170px;
+    margin-top: 50px;
+  }
+
+  .or{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    margin-left: 280px;
+    margin-top: 20px;
+  }
+
+  .signUpBox{
+    margin-top: 50px;
+    width: 288px;
+    height: 62px;
+    border-color:#D2D2D2;
+    border-radius: 8px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .signUp{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+  }
